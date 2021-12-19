@@ -11,8 +11,8 @@ var boats = [];
 var score = 0;
 
 function preload() {
-  backgroundImg = loadImage("./assets/background.gif");
-  towerImage = loadImage("./assets/tower.png");
+  backgroundImg = loadImage("assets/background.gif");
+  towerImage = loadImage("assets/tower.png");
 }
 
 function setup() {
